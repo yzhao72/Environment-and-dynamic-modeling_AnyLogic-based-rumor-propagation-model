@@ -1,0 +1,1 @@
+# Environment-and-dynamic-modeling_AnyLogic-based-rumor-propagation-model
